@@ -84,7 +84,7 @@ deploy:
     github: https://github.com/NLCC-REMOTE/NLCC-REMOTE.github.io.git
     #github: https://github.com/honjun/honjun.github.io.git
     #coding: https://git.coding.net/hojun/hojun.git,backup
-  branch: hexo
+  branch: master
 
 # backup
 backup:
